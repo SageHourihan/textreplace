@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.py
+textreplace/__init__.py
+textreplace/command_line.py
+textreplace/textreplace.py
+textreplace.egg-info/PKG-INFO
+textreplace.egg-info/SOURCES.txt
+textreplace.egg-info/dependency_links.txt
+textreplace.egg-info/entry_points.txt
+textreplace.egg-info/top_level.txt
