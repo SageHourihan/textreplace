@@ -48,9 +48,11 @@ After installation run the program.
 After running your file(s) will be changed.
 
 .. note:: 
+    
     Text to search for and Text to replace is case sensitive.
 
 .. warning:: 
+    
     It is highly recommended to make a back up of your file(s) and store them in a different location. Program may mess up some rows of data if the file is a giant csv file (bigger than 5,000 rows).
 
 License
